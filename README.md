@@ -1,9 +1,4 @@
-
-<!-- <p align="center">
-  <a href="https://www.canva.com/design/DAG9GgrCg-E/bYv0VGpB7FNgEOx5mXzlwA/edit?utm_content=DAG9GgrCg-E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
-    <img src="https://github.com/noorjahanmim/noorjahanmim/blob/main/banner.png" alt="Musfika Rahman Bushra Banner" />
-  </a>
-</p> -->
+<p align="center"> <img src="Black and Purple Digital Glitch Tech YouTube Banner.png" alt="Musfika Rahman Bushra Banner" /> </p>
 
 <h1 align="center">Hi 👋, I'm Musfika Rahman Bushra</h1>
 <h3 align="center">Frontend / MERN Developer</h3>
