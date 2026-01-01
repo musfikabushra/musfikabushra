@@ -15,19 +15,16 @@
 
 ---
 
-### 👩 About Me
-🚀 Passionate Web Developer from Bangladesh  
-💻 Love building user-friendly web applications  
-📚 Constantly learning & exploring modern technologies  
-🎯 Goal: Become a professional software engineer
-
+### About Me
+Hey, I am a MERN Stack Web Developer based in Bangladesh, focused on creating efficient and user-friendly web applications. I specialize in the MongoDB, Express.js, React, and Node.js ecosystem to build scalable and modern solutions. Currently, I am exploring Next.js to enhance my skills in server-side rendering and performance optimization. I am committed to continuous learning and exploring new technologies to solve complex problems. My ultimate objective is to evolve as a professional software engineer and contribute to large-scale, impactful projects.
 ---
 
-### 🔥 What I’m Currently Doing
-- 🌱 Exploring **Next.js**
-- 💻 Working on a **Tourism Website**
-- 📘 Learning **Advanced React**
-- 🤝 Open to Collaboration
+### Current Focus and Goals
+
+* **Exploring Next.js** to build performance-optimized and SEO-friendly web applications.
+* **Learning Advanced React** patterns and state management to improve code scalability.
+* **Open to Collaboration** on open-source projects or innovative web development tasks.
+* **Advancing Technical Skills** in the MERN stack ecosystem to stay updated with modern industry standards.
 
 ---
 
