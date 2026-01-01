@@ -33,20 +33,20 @@
 
 <div align="center">
 
-### 💻 Frontend  
+###  Frontend  
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
 
-### 🧠 Backend  
+###  Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-### 🛠 Tools  
+###  Tools  
 <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <div align="center">
 
 <a href="https://github.com/noorjahanmim">
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <div align="center">
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahanmim&theme=tokyonight&hide_border=true" />
