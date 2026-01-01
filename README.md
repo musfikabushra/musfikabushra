@@ -23,21 +23,30 @@
 
 ## 🛠️ Skills
 
-### 💻 Frontend
+<div align="center">
+
+### 💻 Frontend  
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
 
-### 🧠 Backend
+### 🧠 Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-### 🛠 Tools
+### 🛠 Tools  
 <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
+<div align="center">
+
 <a href="https://github.com/noorjahanmim">GitHub</a> • 
 <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> • 
 <a href="https://twitter.com/your-twitter">Twitter</a>
+
+</div>
+
 
 ---
 
