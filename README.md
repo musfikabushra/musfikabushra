@@ -65,7 +65,7 @@
 ---
 
 ##  GitHub Stats
-<div align="center">
+<!-- <div align="center">
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahanmim&theme=tokyonight&hide_border=true" />
 
@@ -75,4 +75,23 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noorjahanmim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
+</div> -->
+
+
+
+
+<div align="center">
+
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahanmim&theme=tokyonight&hide_border=true" />
+
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahanmim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+  <br/>
+
+  <!-- Overall Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noorjahanmim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
 </div>
+
