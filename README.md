@@ -80,3 +80,15 @@
 |  Top Contributed Repositories |  Contribution Statistics |
 |----------------------------------|-----------------------------|
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noorjahanmim&theme=2077" /> |  ![](https://github-contributor-stats.vercel.app/api?username=noorjahanmim&limit=5&theme=radical&combine_all_yearly_contributions=true) |
+
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+[![Rakibul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=programmerrakibul&theme=react-dark&hide_border=true&area=true)](https://github.com/programmerrakibul)
+
+</div>
+
+
+<br/>
