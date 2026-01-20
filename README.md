@@ -68,25 +68,15 @@
 
 <table align="center">
   <tr>
-    <!-- GitHub Streak -->
-    <td align="center">
-      <h3>GitHub Streak</h3>
-      <img
-        src="https://streak-stats.demolab.com?user=noorjahanmim&theme=tokyonight&hide_border=true"
-        height="220"
-      />
+    <th width="60%">GitHub Streak</th>
+    <th width="40%">Top Languages</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%" />
     </td>
-
-    <!-- Top Languages -->
-    <td align="center">
-      <h3>Top Languages</h3>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahanmim&layout=donut&theme=tokyonight&hide_border=true&langs_count=3&hide=python,java,c,cpp,php,typescript,shell,scss"
-        height="220"
-      />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
-
-
-  
