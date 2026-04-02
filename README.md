@@ -70,8 +70,7 @@
 
 | GitHub Streak | Top Languages |
 |---------------|---------------|
-| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=musfikabushra&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=musfikabushra&theme=tokyonight)|
-
+| ![GitHub Streak](https://streak-stats.demolab.com?user=musfikabushra&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=musfikabushra&theme=tokyonight) |
 </div>
 
 ---
